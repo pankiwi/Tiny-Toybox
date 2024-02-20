@@ -12,7 +12,7 @@ function love.conf(t)
 	t.audio.mixwithsystem   = true
 
 	t.window.title          = "ToyBox: remember right click open all doors"
-	t.window.icon           = nil
+	t.window.icon           = "./icon.png"
 	t.window.width          = 600
 	t.window.height         = 600
 	t.window.borderless     = false
