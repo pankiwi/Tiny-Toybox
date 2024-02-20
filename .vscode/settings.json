@@ -1,0 +1,18 @@
+{
+	"Lua.workspace.library": [
+		"${3rd}/love2d/library",
+		"lib",
+		"C:/Users/arrol/AppData/Roaming/Code/User/globalStorage/sumneko.lua/addonManager/addons/love2d/module/library"
+	],
+	"Lua.runtime.version": "LuaJIT",
+	"Lua.workspace.checkThirdParty": false,
+	"Lua.diagnostics.disable": [
+		"undefined-global",
+		"lowercase-global",
+		"redundant-parameter",
+		"cast-local-type"
+	],
+	"Lua.runtime.special": {
+		"love.filesystem.load": "loadfile"
+	},
+}
